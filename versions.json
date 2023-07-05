@@ -1,0 +1,65 @@
+[
+  {
+    "id": "1.19.4-0.2.6",
+    "name": "SimpleClient 1.19.4",
+    "minecraft_version": "1.19.4",
+    "fabric_version": "0.14.21",
+    "simpleclient_version": "0.2.6",
+    "mods": [
+      "https://github.com/FabiPunktExe/SimpleClient/releases/download/0.2.6/simpleclient-1.19.4-0.2.6.jar",
+      "https://github.com/FabricMC/fabric/releases/download/0.83.0+1.19.4/fabric-api-0.83.0+1.19.4.jar",
+      "https://github.com/tr7zw/EntityCulling/releases/download/1.6.2-1.19.4/entityculling-fabric-1.6.2-mc1.19.4.jar",
+      "https://cdn.modrinth.com/data/H8CaAYZC/versions/1.1.1+1.19/starlight-1.1.1+fabric.ae22326.jar",
+      "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/7hqKf7qu/dashloader-5.0.0-beta.1+1.19.4.jar",
+      "https://cdn.modrinth.com/data/uXXizFIs/versions/RbR7EG8T/ferritecore-5.2.0-fabric.jar",
+      "https://cdn.modrinth.com/data/NRjRiSSD/versions/kLyFtyv2/memoryleakfix-fabric-1.17+-1.1.1.jar",
+      "https://github.com/comp500/Indium/releases/download/1.0.18+mc1.19.4/indium-1.0.18+mc1.19.4.jar",
+      "https://cdn.modrinth.com/data/1IjD5062/versions/4h5IIa7B/continuity-3.0.0-beta.2+1.19.3.jar",
+      "https://github.com/CaffeineMC/sodium-fabric/releases/download/mc1.19.4-0.4.10/sodium-fabric-mc1.19.4-0.4.10+build.24.jar",
+      "https://github.com/FlashyReese/reeses-sodium-options/releases/download/mc1.19.4-1.5.0/reeses_sodium_options-1.5.0+mc1.19.4-build.72.jar",
+      "https://github.com/FlashyReese/sodium-extra-fabric/releases/download/mc1.19.4-0.4.18/sodium-extra-0.4.18+mc1.19.4-build.100.jar"
+    ]
+  },
+  {
+    "id": "1.20-0.2.6",
+    "name": "SimpleClient 1.20",
+    "minecraft_version": "1.20",
+    "fabric_version": "0.14.21",
+    "simpleclient_version": "0.2.6",
+    "mods": [
+      "https://github.com/FabiPunktExe/SimpleClient/releases/download/0.2.6/simpleclient-1.20-0.2.6.jar",
+      "https://github.com/FabricMC/fabric/releases/download/0.83.0+1.20/fabric-api-0.83.0+1.20.jar",
+      "https://github.com/tr7zw/EntityCulling/releases/download/1.6.2-1.20/entityculling-fabric-1.6.2-mc1.20.jar",
+      "https://cdn.modrinth.com/data/H8CaAYZC/versions/XGIsoVGT/starlight-1.1.2+fabric.dbc156f.jar",
+      "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/mcU33FBx/dashloader-5.0.0-beta.1+1.20.0.jar",
+      "https://cdn.modrinth.com/data/uXXizFIs/versions/FCnCG6PS/ferritecore-6.0.0-fabric.jar",
+      "https://cdn.modrinth.com/data/NRjRiSSD/versions/kLyFtyv2/memoryleakfix-fabric-1.17+-1.1.1.jar",
+      "https://github.com/comp500/Indium/releases/download/1.0.18+mc1.20/indium-1.0.18+mc1.20.jar",
+      "https://cdn.modrinth.com/data/1IjD5062/versions/ImUFj5Gl/continuity-3.0.0-beta.2+1.20.jar",
+      "https://github.com/CaffeineMC/sodium-fabric/releases/download/mc1.20-0.4.10/sodium-fabric-mc1.20-0.4.10+build.27.jar",
+      "https://github.com/FlashyReese/reeses-sodium-options/releases/download/mc1.20-1.5.1/reeses_sodium_options-1.5.1+mc1.20-build.74.jar",
+      "https://github.com/FlashyReese/sodium-extra-fabric/releases/download/mc1.20-0.4.20/sodium-extra-0.4.20+mc1.20-build.103.jar"
+    ]
+  },
+  {
+    "id": "1.20.1-0.2.6",
+    "name": "SimpleClient 1.20.1",
+    "minecraft_version": "1.20.1",
+    "fabric_version": "0.14.21",
+    "simpleclient_version": "0.2.6",
+    "mods": [
+      "https://github.com/FabiPunktExe/SimpleClient/releases/download/0.2.6/simpleclient-1.20.1-0.2.6.jar",
+      "https://github.com/FabricMC/fabric/releases/download/0.84.0+1.20.1/fabric-api-0.84.0+1.20.1.jar",
+      "https://github.com/tr7zw/EntityCulling/releases/download/1.6.2-1.20/entityculling-fabric-1.6.2-mc1.20.jar",
+      "https://cdn.modrinth.com/data/H8CaAYZC/versions/XGIsoVGT/starlight-1.1.2+fabric.dbc156f.jar",
+      "https://cdn.modrinth.com/data/ZfQ3kTvR/versions/mcU33FBx/dashloader-5.0.0-beta.1+1.20.0.jar",
+      "https://cdn.modrinth.com/data/uXXizFIs/versions/FCnCG6PS/ferritecore-6.0.0-fabric.jar",
+      "https://cdn.modrinth.com/data/NRjRiSSD/versions/kLyFtyv2/memoryleakfix-fabric-1.17+-1.1.1.jar",
+      "https://github.com/comp500/Indium/releases/download/1.0.18+mc1.20/indium-1.0.18+mc1.20.jar",
+      "https://cdn.modrinth.com/data/1IjD5062/versions/ImUFj5Gl/continuity-3.0.0-beta.2+1.20.jar",
+      "https://github.com/CaffeineMC/sodium-fabric/releases/download/mc1.20-0.4.10/sodium-fabric-mc1.20-0.4.10+build.27.jar",
+      "https://github.com/FlashyReese/reeses-sodium-options/releases/download/mc1.20-1.5.1/reeses_sodium_options-1.5.1+mc1.20-build.74.jar",
+      "https://github.com/FlashyReese/sodium-extra-fabric/releases/download/mc1.20-0.4.20/sodium-extra-0.4.20+mc1.20-build.103.jar"
+    ]
+  }
+]

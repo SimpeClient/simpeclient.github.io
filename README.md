@@ -1,2 +1,2 @@
-# simpleclient.github.io
-The website of SimpleClient
+# SimpleWebsite
+Website of SimpleClient
