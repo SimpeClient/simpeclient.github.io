@@ -63,29 +63,6 @@ body {
     text-overflow: ellipsis;
 }
 
-/*
-#download {
-    position: fixed;
-    width: calc(44vh - 14vh);
-    height: 6vh;
-    left: calc(50vw - 44vh / 2);
-    top: calc(50vh - 3px - 6vh);
-    border: 2px solid #000000;
-    border-right: none;
-    border-top-left-radius: 8px;
-    border-bottom-left-radius: 8px;
-    background-color: #22aa22;
-    color: #eeeeee;
-    font-size: 4vh;
-    font-weight: 600;
-    transition-duration: 0.2s;
-    cursor: pointer;
-    overflow: hidden;
-    white-space: nowrap;
-    text-overflow: ellipsis;
-}
-*/
-
 #download:hover {
     background-color: #22cc22;
 }
@@ -159,5 +136,30 @@ body {
 }
 
 .platform:disabled {
+    cursor: default;
+}
+
+#discord {
+    position: fixed;
+    width: calc(36vh);
+    height: 8vh;
+    left: calc(50vw - 36vh / 2);
+    top: calc(50vh + 3px);
+    border: 2px solid #000000;
+    border-radius: 8px;
+    background-color: #3355ff;
+    color: #eeeeee;
+    font-size: 4vh;
+    font-weight: 600;
+    transition-duration: 0.2s;
+    cursor: pointer;
+}
+
+#discord:hover {
+    background-color: #5577ff;
+}
+
+#discord:disabled {
+    background-color: #666666;
     cursor: default;
 }
